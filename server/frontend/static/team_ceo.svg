@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<rect width="200" height="200" fill="#cfeef0"/>
+<path d="M30 200 Q30 140 100 140 Q170 140 170 200 Z" fill="#1f4e79"/>
+<rect x="88" y="112" width="24" height="30" fill="#e8b98f"/>
+<ellipse cx="100" cy="80" rx="36" ry="42" fill="#e8b98f"/>
+<path d="M64 72 Q62 30 100 30 Q138 30 136 72 Q120 52 100 54 Q80 52 64 72 Z" fill="#3b2a20"/>
+<circle cx="87" cy="82" r="3.5" fill="#333"/><circle cx="113" cy="82" r="3.5" fill="#333"/>
+<path d="M88 102 Q100 110 112 102" stroke="#7a4a3a" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
